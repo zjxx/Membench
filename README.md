@@ -1,6 +1,8 @@
 # README
 
-Paper link: https://arxiv.org/abs/2506.21605
+Paper link: 
+https://arxiv.org/abs/2506.21605
+https://aclanthology.org/2025.findings-acl.989/
 
 Data location:
 
