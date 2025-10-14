@@ -11,6 +11,8 @@ or
 
 https://drive.google.com/file/d/112Zraj4pTPH4Idph6i1uMOLA_LPFdGr0/view?usp=sharing
 
+If you want to directly use the data sampled in the paper, you can find the 0-10k and 100k datasets in the **data2test** directory. These represent the lengths of the entire conversation. Note that if your test setup is to mimic the **memory flow**, you can use these directly. However, if you want to test the model's ability with **long contexts**, you should sample more examples.
+
 ## Data Details
 
 We provide two versions of the data: **Categorical data** and  **data**.
